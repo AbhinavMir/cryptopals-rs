@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 hex = "0.3.2"
 base64 = "0.10.1"
+clap = "2.33.0"
