@@ -1,4 +1,3 @@
-use clap::{App, Arg};
 mod basics;
 
 fn main() {
