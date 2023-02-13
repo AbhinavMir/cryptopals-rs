@@ -1,5 +1,5 @@
 mod basics;
 
 fn main() {
-    basics::fixed_xor::fixed_xor();
+    basics::single_byte_xor::single_byte_xor();
 }
